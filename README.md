@@ -148,30 +148,6 @@ This enables **ongoing portfolio oversight**, not just static analysis.
 
 ---
 
-## Repository Structure
-asset-management-risk-portfolio/
-├── notebooks/
-│ ├── 01_asset_universe.ipynb
-│ ├── 02_baseline_portfolios.ipynb
-│ ├── 03_risk_parity_portfolio.ipynb
-│ ├── 04_risk_attribution.ipynb
-│ ├── 05_stress_testing.ipynb
-│ └── 06_rolling_risk_monitoring.ipynb
-│
-├── utils/
-│ ├── config.py
-│ ├── data.py
-│ └── analytics.py
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-└── README.md
-
-
----
-
 ## Tools & Methods
 
 - **Python:** pandas, numpy, scipy, matplotlib  
