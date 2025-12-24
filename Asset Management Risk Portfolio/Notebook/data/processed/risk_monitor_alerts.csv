@@ -1,0 +1,4 @@
+date,portfolio,rolling_vol,current_drawdown,VaR_breaches_last_20d,ALERT_vol_gt_25%,ALERT_drawdown_lt_-15%
+2025-12-23,Equal Weight,0.08662839145203644,0.0,0,False,False
+2025-12-23,Mean-Variance,0.03917036531977067,0.0,0,False,False
+2025-12-23,Risk Parity,0.08662839145203644,0.0,0,False,False

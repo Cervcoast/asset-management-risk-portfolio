@@ -1,0 +1,10 @@
+scenario,portfolio,portfolio_simple_return,top_loss_contributors
+Credit Spreads Widen,Equal Weight,-0.006563447331547317,"HYG, QQQ, SPY, LQD, AGG"
+Credit Spreads Widen,Mean-Variance,-0.012069862677429592,"HYG, LQD, AGG, SPY, BRK-B"
+Credit Spreads Widen,Risk Parity,-0.006563447331547317,"HYG, QQQ, SPY, LQD, AGG"
+Equity -25% Risk-Off,Equal Weight,-0.039283263496778804,"QQQ, EEM, IWM, SPY, EFA"
+Equity -25% Risk-Off,Mean-Variance,-0.0036510721121415855,"HYG, LQD, SPY, IWM, CVX"
+Equity -25% Risk-Off,Risk Parity,-0.039283263496778804,"QQQ, EEM, IWM, SPY, EFA"
+Rates +200bps (Duration hit),Equal Weight,-0.007900666495423498,"TLT, IWM, IEF, QQQ, AGG"
+Rates +200bps (Duration hit),Mean-Variance,-0.021642325262961372,"TLT, IEF, AGG, HYG, LQD"
+Rates +200bps (Duration hit),Risk Parity,-0.007900666495423498,"TLT, IWM, IEF, QQQ, AGG"

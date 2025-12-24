@@ -1,0 +1,4 @@
+portfolio,window,alpha,expected_breach_rate,observed_breach_rate,num_breaches,num_obs
+Mean-Variance,252,0.05,0.05,0.05396595436436074,149,2761
+Equal Weight,252,0.05,0.05,0.05287939152480985,146,2761
+Risk Parity,252,0.05,0.05,0.05287939152480985,146,2761
